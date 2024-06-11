@@ -1,4 +1,4 @@
-# todo_list1
+# To do list
 Andree Letzel, Keydi y Majo
 
 Lista de tareas
